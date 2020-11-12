@@ -1,0 +1,27 @@
+body {
+  font-family: 'Nunito';
+}
+
+a {
+  text-decoration: none;
+  color: #000000;
+}
+
+.card {
+  border: none;
+  -webkit-box-shadow: 10px 10px 23px 0px rgba(0, 0, 0, 0.16);
+          box-shadow: 10px 10px 23px 0px rgba(0, 0, 0, 0.16);
+}
+
+h1 {
+  font-size: 1.6rem;
+}
+
+@media only screen and (min-width: 1300px) {
+  body {
+    font-size: 24px;
+  }
+  h1 {
+    font-size: 3rem;
+  }
+}
