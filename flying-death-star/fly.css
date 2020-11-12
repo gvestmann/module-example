@@ -1,0 +1,7 @@
+div.death-star {
+    background-image: url("death-star.png");
+    width: 50px;
+    height:50px;
+    position:fixed;
+    background-size: cover;
+    }
