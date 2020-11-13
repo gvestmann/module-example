@@ -1,0 +1,24 @@
+{
+  "name": "module-example",
+  "version": "1.0.0",
+  "description": "This is simple Bootstrap-site I whipped up for demoing my module \"Flying Death Star\", which I made for a school assignment on modules, package managers and bundlers. For the sake of that, I used Parcel for development and built the site via Netlify.com.",
+  "main": "script.js",
+  "scripts": {
+    "dev": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gvestmann/module-example.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gvestmann/module-example/issues"
+  },
+  "homepage": "https://github.com/gvestmann/module-example#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4"
+  }
+}
